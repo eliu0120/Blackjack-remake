@@ -1,0 +1,35 @@
+#0: Hello World
+
+#1: Card class + card functions
+
+#2: Prints a full deck of cards (Deck class)
+
+#3: Prints a shuffled full deck of cards
+
+#4: PopDeck function
+
+#5: Player class + player functions
+
+#6: More player functions including hit function (?)
+
+#7: Player constructor (?)
+
+#8: Player constructor + hit function demonstration + AI class (?)
+
+#9: Interactive menu created
+
+#10: Game class + AI game options usable
+
+#11: Non-AI game options usable (AI game options unusable in this version)
+
+#12: Round function created
+
+#13: Non-AI game options playable - games do not end
+
+#14: AI game options playable + games end properly
+
+#15: Rankings for each game now available
+
+#16: Allows player to play again
+
+#17: Bug fixes
