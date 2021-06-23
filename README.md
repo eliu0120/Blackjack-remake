@@ -1,2 +1,2 @@
 # Blackjack-remake
-Remake of the blackjack game I made in 2018 for an Intro to Java class
+A remake of the blackjack game I made in 2018 for an Intro to Java class. The previous blackjack game was coded in Java with a lot of extra help from more experienced programmers. This Blackjack game is coded in C++ and was created entirely by myself over the course of 6 days. This Blackjack game features a wide variety of improvements from the old Blackjack games, including the ability to select game modes (change number of players playing + play with an AI) as well as properly functioning Ace cards. Additionally, the code is significantly more organized and centered around object-oriented programming.
